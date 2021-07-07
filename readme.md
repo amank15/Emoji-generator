@@ -1,4 +1,4 @@
-# Emojinator V2 [![](https://img.shields.io/github/license/sourcerer-io/hall-of-fame.svg?colorB=ff0000)](https://github.com/akshaybahadur21/Emojinator/blob/master/LICENSE.md)  [![](https://img.shields.io/badge/Akshay-Bahadur-brightgreen.svg?colorB=ff0000)](https://akshaybahadur.com)
+
 This code helps you classify different hand gestures as emojis using Object Detection API.
 
 
@@ -35,10 +35,7 @@ If you face any problem, kindly raise an issue
 
 For tensorboard visualization, go to the specific log directory and run this command tensorboard --logdir=. You can go to localhost:6006 for visualizing your loss function.
 
-### Contributors
 
-##### 1) [Akshay Bahadur](https://github.com/akshaybahadur21/)
-##### 2) [Raghav Patnecha](https://github.com/raghavpatnecha)
  
  
 <img src="https://github.com/akshaybahadur21/BLOB/blob/master/emo_v2.gif">
