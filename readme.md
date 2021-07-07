@@ -31,14 +31,7 @@ If you face any problem, kindly raise an issue
 4) For training, you can use my uploaded model in `/hand_detection_inference_graph` or you can train your own model using [sentdex turorial](https://pythonprogramming.net/introduction-use-tensorflow-object-detection-api-tutorial/)
 5) Finally, run `Emojinator_V2.py` for using Emojinator 2.0 via webcam.
 
-### Tensorboard Visualization
 
-For tensorboard visualization, go to the specific log directory and run this command tensorboard --logdir=. You can go to localhost:6006 for visualizing your loss function.
-
-
- 
- 
-<img src="https://github.com/akshaybahadur21/BLOB/blob/master/emo_v2.gif">
 
 ### References:
  
